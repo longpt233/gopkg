@@ -1,0 +1,2 @@
+# gopkg
+test pkg golang
