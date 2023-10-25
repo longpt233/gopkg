@@ -2,6 +2,6 @@ package gopkg
 
 import "fmt"
 
-func test() {
+func Test() {
 	fmt.Println("hello long")
 }
